@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.m6zwb4v {
+  background-color: #3e00ff !important;
+  color: white !important;
+  padding: 3px 4px;
+  border-radius: 6px;
+  light-height: 16;
+}
+.mnw6qvm {
+  border: 2px solid #3e00ff;
+  z-index: 90000;
+  border-radius: 6px;
+}
+.m6zwb4v {
+  margin-bottom: 5px;
+}
+
+.public-DraftEditor-content {
+  min-height: 140px;
+}
